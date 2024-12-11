@@ -1,0 +1,30 @@
+[submodule "User-Service"]
+	path = User-Service
+	url = https://github.com/AkshayJayachandranVV/Edu-You-User_Service.git
+[submodule "Course-Service"]
+	path = Course-Service
+	url = https://github.com/AkshayJayachandranVV/Edu-You-Course_Service.git
+[submodule "Tutor-Service"]
+	path = Tutor-Service
+	url = https://github.com/AkshayJayachandranVV/Edu-You-Tutor_Service.git
+[submodule "Chat-Service"]
+	path = Chat-Service
+	url = https://github.com/AkshayJayachandranVV/Edu-You-Chat_Service.git
+[submodule "Api-Gateway"]
+	path = Api-Gateway
+	url = https://github.com/AkshayJayachandranVV/Edu-You-Api_Gateway.git
+[submodule "Front-End"]
+	path = Front-End
+	url = https://github.com/AkshayJayachandranVV/Edu-You-Client.git
+[submodule "Payment-Service"]
+	path = Payment-Service
+	url = https://github.com/AkshayJayachandranVV/Edu-You-Payment_Service.git
+[submodule "Admin-Service"]
+	path = Admin-Service
+	url = https://github.com/AkshayJayachandranVV/Edu-You-Admin_Service.git
+[submodule "Deployment"]
+	path = Deployment
+	url = https://github.com/AkshayJayachandranVV/Edu-You-Deployment.git
+[submodule "Order-Service"]
+	path = Order-Service
+	url = https://github.com/AkshayJayachandranVV/Edu-You-Order_Service.git
